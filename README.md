@@ -1,4 +1,3 @@
-[arsen-milana.html](https://github.com/user-attachments/files/33303886/arsen-milana.html)
 <!DOCTYPE html><html lang="ru"><head><meta charset="utf-8"><title>Арсен и Милана</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Marck+Script&display=swap" rel="stylesheet">
@@ -224,4 +223,4 @@ const e=document.createElement('button');e.className='gh';e.textContent=Math.ran
 const no=$('#no'),yes=$('#yes');let ns=1;const run=()=>{ns=Math.min(ns+.18,2.2);yes.style.transform='scale('+ns+')';no.style.transform='translate('+(Math.random()*160-80)+'px,'+(Math.random()*90-45)+'px)'};
 no.onmouseenter=run;no.ontouchstart=e=>{e.preventDefault();run()};no.onclick=run;
 yes.onclick=()=>{$('#ar').textContent='Я знал. Люблю тебя, Милана. Навсегда ❤';no.style.display='none';for(let k=0;k<40;k++)setTimeout(()=>fx(['❤','💖','✦'][k%3]),k*80)};
-document.querySelectorAll('.ch').forEach(l=>io.observe(l));</script></body></html>
+document.querySelectorAll('.ch').forEach(l=>io.observe(l))</script></body></html>
