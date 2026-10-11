@@ -1,4 +1,5 @@
-<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8"><title>Арсен и Милана (Copy)</title>
+[arsen-milana.html](https://github.com/user-attachments/files/33303886/arsen-milana.html)
+<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8"><title>Арсен и Милана</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Marck+Script&display=swap" rel="stylesheet">
 <style>
